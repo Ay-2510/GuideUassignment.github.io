@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.last{
+    max-width:1170px;
+    
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer{
+    background-color: black;
+    padding: 20px 0;
+
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+
+}
+.footer-col h4{
+    font-size: 18px;
+    color: blanchedalmond;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+.footer-para{
+    color: blanchedalmond;
+}
+.footer-col h6{
+    color: blanchedalmond;
+}
+.footer-col ul li a{
+    color: blanchedalmond;
+}
+.footer-para1{
+    margin-left: 250px;
+}
+.container{
+    padding: 70px 0px;
+
+}
+.main-image{
+    width: 100%;
+
+}
+h2{
+    padding: 20px 0px;
+}
+h1{
+    padding: 20px 0px;
+    margin-left: 30px;
+}
+
+.download-button{
+    margin-left: 30px;
+}
+.title-image{
+    width:75%;
+}
+h3{
+    padding: 20px 0px;
+}
+.last{
+    border-style: solid;
+    border-color: black;
+    border-width:10px;
+    border-radius: 10px;
+}
+.app{
+    text-align: center;
+}
+.Partner{
+  
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width:200px;
+}
